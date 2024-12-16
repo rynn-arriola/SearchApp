@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SearchApp</string>
+
+    <string name="loading">Loading</string>
+    <string name="search">Search</string>
+    <string name="go_to_search">Go To Search</string>
+</resources>
