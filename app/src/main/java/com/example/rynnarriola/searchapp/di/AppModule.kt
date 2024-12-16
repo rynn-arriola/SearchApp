@@ -26,6 +26,8 @@ object AppModule {
             .create(NetworkService::class.java)
     }
 
+    @Provides
+    @Singleton
     fun provideRepo(networkService: NetworkService): FlickrRepo{
         return FlickrRepo(networkService)
     }

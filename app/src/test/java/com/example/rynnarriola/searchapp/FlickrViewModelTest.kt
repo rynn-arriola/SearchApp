@@ -2,7 +2,6 @@ package com.example.rynnarriola.searchapp
 
 import app.cash.turbine.test
 import com.example.rynnarriola.searchapp.data.model.Item
-import com.example.rynnarriola.searchapp.data.model.Media
 import com.example.rynnarriola.searchapp.data.repository.FlickrRepo
 import com.example.rynnarriola.searchapp.util.DispatcherProvider
 import com.example.rynnarriola.searchapp.util.UiState
